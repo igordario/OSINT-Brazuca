@@ -965,6 +965,7 @@ Abaixo estão listadas todas as categorias de domínio .br oferecidas pelo Regis
     - Guia de Recolhimento de Multas - RH - https://www.ib7.bradesco.com.br/ibpfdetranrj/debitoVeiculoRJGrmConsultar.do
     - Guia de Regularização de Taxas - RJ - https://www.ib7.bradesco.com.br/ibpfdetranrj/DebitoVeiculoRJGRTLoaderAction.do
     - Informações de Pagamentos Efetuados - RJ - https://www.ib7.bradesco.com.br/ibpfdetranrj/debitoVeiculoRJConsultaLoader.do
+    - Cadastro de veiculo Placa - RJ https://www.detran.rj.gov.br/_monta_aplicacoes.asp?cod=16&tipo=crlv        
 
     </details>
 

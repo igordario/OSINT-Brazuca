@@ -184,6 +184,10 @@ Para obter informações de declaração do simples nacional, basta informar o C
 ### Consulta Comunicação de Decisão do Requerimento/Benefício
 Consulta o status de requisição de aposentádoria de INSS. Vale para todo o território nacional.
 - https://www2.dataprev.gov.br/sabiweb/relatorio/imprimirCRER.view?acao=imprimir_CRER
+        
+        ### Consulta Restituição imposto de Renda
+Consulta o status da Restituição de imposto de Renda.
+- https://servicos.receita.fazenda.gov.br/Servicos/consrest/Atual.app/paginas/index.asp
 
 
 ##### [![](https://img.shields.io/badge/Voltar-Sum%C3%A1rio-blue?style=plastic&logo=Acclaim)](#sumário)
